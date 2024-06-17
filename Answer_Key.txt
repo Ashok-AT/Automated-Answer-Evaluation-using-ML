@@ -1,0 +1,19 @@
+high -level programming language
+Guido van Rossum
+Python Software
+fewer lines of code
+High -Level Language
+Dynamically Typed language
+String, Tuple, etc.
+Open source and community development
+Immutable data types
+Everything in Python is an object
+ordered collection of data values
+try, except, and finally
+after trying for an error
+pass a variable-length,
+keyword-free argument list
+List, Tuple, Set, and Dictionary
+“for” loop where they have both the conditions start and the end
+“while” loop is the actual looping feature
+special syntax *args and **kwargs

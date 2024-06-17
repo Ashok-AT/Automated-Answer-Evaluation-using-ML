@@ -1,0 +1,13 @@
+import tkinter as tk
+
+win = tk.Tk()
+
+photoimage = tk.PhotoImage(file="Leopard-Download-PNG.png")
+
+width, height = photoimage.width(), photoimage.height()
+canvas = tk.Canvas(win, bg="blue", width=width, height=height)
+canvas.pack()
+
+canvas.create_image(0, 0, image=photoimage, anchor=tk.NW)
+
+win.mainloop()
