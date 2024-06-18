@@ -9,9 +9,7 @@ Automated Answer Evaluation is a project aimed at automating the process of eval
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Contribution](#contribution)
-- [Authors](#authors)
 - [License](#license)
 
 ## Project Overview
