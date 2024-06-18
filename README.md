@@ -41,7 +41,7 @@ Automated Answer Evaluation simplifies the evaluation of descriptive answers by 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/automated-answer-evaluation.git
+   git clone https://github.com/Ashok-AT/Automated-Answer-Evaluation-using-ML.git
    cd automated-answer-evaluation
    ```
 2. **Setup virtual environment:**
